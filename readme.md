@@ -13,3 +13,4 @@ These can also be found in my Replit account:
   - [Time Calculator](https://replit.com/@maryletteroa/time-calculator)
   - [Budget app](https://replit.com/@maryletteroa/budget-app)
   - [Polygon area calculator](https://replit.com/@maryletteroa/polygon-area-calculator)
+  - [Probability calculator](https://replit.com/@maryletteroa/probability-calculator)
