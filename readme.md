@@ -1,12 +1,12 @@
 ## About
 
-Repository of solutions to [FreeCodeCamp](www.freecodecamp.org) exercises
+Contains my solutions to [FreeCodeCamp](www.freecodecamp.org) exercises
 
 
 
 ## Alternative links
 
-Can also be found in Replit:
+These can also be found in my Replit account:
 
 - Scientific Computing with Python
   - [Arithmetic Formatter](https://replit.com/@maryletteroa/arithmetic-formatter)
